@@ -33,4 +33,4 @@ Hi, my name is Marinna. I'm 31 years old and I live in Düsseldorf, Germany. I l
 15. They’ll keep in an airtight container for a good two weeks and in the freezer for up to a month.
 
 ## The definition of _habit_
-> "a settled or regular tendency or practice, especially one that is hard to give up."
+> "a settled or regular tendency or practice, especially one that is hard to give up"
