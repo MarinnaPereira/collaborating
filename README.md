@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marinna
 
 ## A short bio
@@ -35,15 +34,14 @@ Hi, my name is Marinna. I'm 31 years old and I live in Düsseldorf, Germany. I l
 
 ## The definition of _habit_
 > "a settled or regular tendency or practice, especially one that is hard to give up"
-=======
-# collaborating
+
+# Vasylyna
 
 ### Vasylyna Sidei
 Hi, I´m Lyna from Ukraine. I´m married and have a 3 years old son. I can´t live without sport.
 
 ### Favorite dish
 ![bruschetta](https://simply-delicious-food.com/wp-content/uploads/2022/02/Prawn-smashed-avocado-bruschetta-2.jpg)
-
 
 ### Spicy Shrimp Avocado Bruschetta
 
@@ -70,7 +68,7 @@ The ingredients for this shrimp bruschetta recipe are simple and easy to prepare
 ### Definition 
 **Collaboration** - the action of working with someone to produce something.
 
-
+# Yusra
 
 ## Short bio
 
@@ -92,5 +90,3 @@ The ingredients for this shrimp bruschetta recipe are simple and easy to prepare
 ### Definition of word 
 
 a sound or combination of sounds that has meaning and is spoken by a human being. : a written or printed letter or letters standing for a spoken word. 3. : a brief remark or conversation.
-
->>>>>>> 112d0667a8137844aa845ce33103ca9a36051c3e
